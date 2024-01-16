@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning life
 - 💞️ I’m looking to collaborate on recruiting you to my team!
 - 📫 How to reach me 3376078924
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 
+- 
 
 <!---
 bunchflip/bunchflip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
